@@ -25,3 +25,4 @@ class Calculator:
 end_user = input("type your function: ")
 result = eval(end_user)
 print(result)
+#MAY 26 NATALIE WARNER
